@@ -107,13 +107,13 @@
 .section1 {
     /* border: 2px solid blue; */
     height: 60vh;
-    width: 40%;
+    width: 60%;
     display: flex;
     text-align: center;
-    font-size: 30px;
+    font-size: 35px;
     justify-content: center;
     align-items: center;
-    margin-left: 30%;
+    margin-left: 20%;
 
 
 }
