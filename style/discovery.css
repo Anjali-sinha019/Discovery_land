@@ -1,12 +1,13 @@
-*{
+* {
     margin: 0px;
     padding: 0px;
 }
 
-.page_container{
+.page_container {
     /* border: 1px solid red; */
     height: 100vh;
 }
+
 .header {
     /* border: 1px solid green; */
     display: flex;
@@ -80,14 +81,16 @@
     align-items: end;
 
 }
-.baseline p{
+
+.baseline p {
     /* border: 1px solid green; */
     margin-left: 40px;
     color: white;
     font-family: "Roboto", sans-serif;
 
 }
-.baseline svg{
+
+.baseline svg {
     /* border: 1px solid red; */
     height: 40px;
     width: 40px;
@@ -97,54 +100,84 @@
     margin-right: 40px;
 
 }
-.main_content{
-    border: 1px solid green;
+
+.main_content {
+    /* border: 1px solid green; */
     height: 100%;
 }
-.section1{
-    border: 1px solid red;
+
+.section1 {
+    /* border: 1px solid red; */
     height: 110vh;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    
 
-    
+
+
 }
-.welcome_to_discovery{
+
+.welcome_to_discovery {
     /* border: 1px solid green; */
     height: 80vh;
     width: 30vw;
-   
+
 
 
 
 }
-.welcome_to_discovery h2{
+
+.welcome_to_discovery h2 {
     /* border: 1px solid blue; */
     height: 15vh;
-    font-size:xx-large;
+    font-size: xx-large;
     display: flex;
     align-items: center;
-   
+
 }
-.welcome_to_discovery p{
+
+.welcome_to_discovery p {
     /* border: 1px solid red; */
     height: 35vh;
     font-size: larger;
     opacity: 0.5;
 
 }
-.Welcome{
+
+.Welcome {
     /* border: 1px solid green; */
     margin-top: 22vh;
 }
-.section2{
-    border: 1px solid red;
+
+.section2 {
+    /* border: 1px solid red; */
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.section2 h2{
-    border: 1px solid blue;
+.our_world {
+    /* border: 1px solid blue; */
     height: 20vh;
-    
+    width: 30vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+.our_world p {
+    /* border: 1px solid green; */
+    font-size: xx-large;
+}
+
+.our_world b {
+    /* border: 1px solid red; */
+    font-size: xx-large;
+}
+.images{
+    border: 1px solid red;
+    height: 100vh;
 }
