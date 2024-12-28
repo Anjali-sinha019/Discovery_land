@@ -171,13 +171,33 @@
 .our_world p {
     /* border: 1px solid green; */
     font-size: xx-large;
+    padding-left: 40px;
 }
 
 .our_world b {
     /* border: 1px solid red; */
     font-size: xx-large;
+    padding-left: 40px;
+}
+.arrows{
+    /* border: 1px solid red; */
+    padding-right: 50px;
 }
 .images{
     border: 1px solid red;
     height: 100vh;
+   
 }
+.images1{
+    /* border: 2px solid green; */
+    position: relative;
+
+}
+.images1 h3{
+    /* border: 1px solid red; */
+    position: absolute;
+}
+/* .images1 p{
+    border: 1px solid green;
+    position: absolute;
+} */
